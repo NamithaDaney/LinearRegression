@@ -1,2 +1,2 @@
 # LinearRegression
-Preprocessing data, analysis and find insights.
+Preprocessing data, analysis and Regression Algorithm Implementation.
